@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adcousseau/"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a>
-  <a href="https://seuportfolio.com"><img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Personal%20Website-000000?logo=browser&logoColor=white&style=for-the-badge&labelColor=111111"/></a>
+  <a href=""><img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Personal%20Website-000000?logo=browser&logoColor=white&style=for-the-badge&labelColor=111111"/></a>
 </p>
 
 ---
